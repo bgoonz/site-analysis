@@ -1,3 +1,6 @@
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4d7a1383-d6a2-4556-80a8-fc354d4ebadc/deploy-status)](https://app.netlify.com/sites/site-analysis/deploys)
+
 <div align="center">
 
 
